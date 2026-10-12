@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Il mio videogioco preferito</title>
+    <style>
+      h1 {
+        text-anlign: center;
+      }
+      </style>
+    </head>
+ <body>
+   <h1> titanfall 2 </h1>
+ </body>
+</html>
