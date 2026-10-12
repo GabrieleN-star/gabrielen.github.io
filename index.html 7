@@ -1,14 +1,9 @@
 <html lang="it">
 <head>
-    <meta charset="UTF-8">
     <title>Pagina con immagine</title>
 </head>
 <body>
-
     <h1>Benvenuto nel mio sito</h1>
-    
-    <!-- Inserimento dell'immagine -->
     <img src="nome-immagine.jpg" alt="Descrizione dell'immagine" width="500">
-
 </body>
 </html>
